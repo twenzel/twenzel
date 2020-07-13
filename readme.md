@@ -1,4 +1,4 @@
-# Hi, I'm Toni
+# Hi, I'm Toni 👋
 
 ## Find me elsewhere
 - Tweeting my thoughts [![Twitter](https://img.shields.io/badge/twitter-%40twenzel-1DA1F2?logo=twitter)](https://twitter.com/twenzel)
